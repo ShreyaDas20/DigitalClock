@@ -5,4 +5,3 @@
  3. From time module I  used strftime function to retrieve system's time.
  4. Then I create a function to display time on the label.
  5. Then I used TKinter Label to style the label widget.
- 6. 
